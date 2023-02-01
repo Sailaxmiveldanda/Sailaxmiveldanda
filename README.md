@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Myname is Sailaxmi. I am from Hyderabad. I am currently pursuing my masters at Northwest Missouri State University.
 <!--
 **Sailaxmiveldanda/Sailaxmiveldanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
