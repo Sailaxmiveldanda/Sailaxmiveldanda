@@ -98,4 +98,7 @@ Software Engineer specializing in cloud computing, big data technologies, and fu
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sailaxmiveldanda)
+
+
 Feel free to explore my projects and connect for collaboration or opportunities!
