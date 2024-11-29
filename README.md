@@ -1,5 +1,5 @@
 ### Hi there 👋
-Myname is Sailaxmi. I am from Hyderabad. I am currently pursuing my masters at Northwest Missouri State University.
+Hi, I'm Sailaxmi! I recently completed my Master’s in Computer Science at Northwest Missouri State University. I'm passionate about building efficient software solutions and have experience in Python, Java, AWS, and Big Data technologies.
 <!--
 **Sailaxmiveldanda/Sailaxmiveldanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
