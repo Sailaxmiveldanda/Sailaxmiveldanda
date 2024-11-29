@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sailaxmi Veldanda
 
-Software Engineer specializing in cloud solutions, big data technologies, and full-stack development.
+Software Engineer specializing in cloud computing, big data technologies, and full-stack development with a focus on scalable and efficient solutions.
 
 ## 🚀 About Me
 - 🎓 Master’s in Computer Science from Northwest Missouri State University, graduated in 2024.
