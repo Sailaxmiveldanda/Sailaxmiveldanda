@@ -106,6 +106,27 @@ Arduino-based GSM system to track user locations and trigger alerts.
 
 ---
 
+## 🎓 Education  
+
+### **Northwest Missouri State University** – Maryville, MO  
+**Master of Science in Computer Science** (Jan 2023 – Apr 2024)  
+**CGPA**: 3.9 / 4.0  
+**Relevant Coursework**:  
+- Database Systems, Object-Oriented Programming  
+- Web Apps & Services Development, Big Data  
+- Advanced Topics in DBMS, Mobile Computing (iOS)  
+- Algorithms, Project Management, Special Projects
+
+### **Jawaharlal Nehru Technological University** – Hyderabad, India  
+**Bachelor of Technology in Electronics and Communication Engineering** (Aug 2017 – Jul 2021)  
+**CGPA**: 7.54 / 10  
+**Relevant Coursework**:  
+- Java Programming, Data Structures & Algorithms  
+- Operating Systems, Computer Networks  
+- Digital Image & Signal Processing
+
+---
+
 ## 📜 Certifications  
 - **Java Programming Masterclass** – Udemy (May 2020)  
 - **Complete Python Programming Bootcamp** – Udemy (July 2020)  
@@ -122,4 +143,3 @@ Arduino-based GSM system to track user locations and trigger alerts.
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sailaxmiveldanda)
-
