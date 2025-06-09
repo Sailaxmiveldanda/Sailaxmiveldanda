@@ -65,19 +65,19 @@ Software Engineer specializing in cloud computing, big data technologies, and fu
 ## 💼 Professional Experience
 
 ### **Software Developer**  
-**Revive Software Systems Inc, Plano, TX**  
+**Revive Software Systems Inc | Plano, TX**  
 _Aug 2024 – Present_  
-- Developed scalable Java services using Spring Boot, integrated with AWS Lambda, RDS, and DynamoDB.  
-- Built ETL pipelines using Azure Data Factory, Databricks, and Snowflake.  
-- Automated job orchestration using Airflow and shell scripting.  
-- Collaborated across teams to ensure timely delivery in Agile environment.
+- Built scalable Java services using Spring Boot, integrated with AWS Lambda, RDS, and DynamoDB.  
+- Developed ETL pipelines using Azure Data Factory, Databricks, and Snowflake.  
+- Automated job orchestration with Airflow and shell scripting.
 
 ### **Associate Software Engineer**  
-**Accenture, Hyderabad, India**  
+**Accenture | Hyderabad, India**  
 _Sept 2021 – Dec 2022_  
-- Created internal tools using Python and Java to automate workflows.  
-- Enhanced application performance through tuning and debugging.  
-- Contributed to sprint planning, retrospectives, and cross-team initiatives.
+- Developed Python and Java tools to optimize workflows and reduce manual intervention.  
+- Enhanced application performance and resolved deployment issues.  
+- Participated in Agile sprints and collaborated on feature delivery.
+
 
 ### **Telecom Network Engineer Intern**  
 **BSNL Ltd, Hyderabad, India**  
@@ -89,20 +89,32 @@ _July 2019 – Aug 2019_
 ## 📂 Project Portfolio  
 
 ### 1. [University Class Performance App](https://github.com/Sailaxmiveldanda/classtrackr.git)  
-Android app providing real-time class performance and schedule tracking.  
-**Tech**: Java, Firebase, SQLite, REST APIs  
+**Android | Java | Firebase | SQLite | REST APIs**  
+Multi-role Android app for instructors, admins, and super-admins to monitor real-time class performance.  
+- Integrated Firebase Authentication and RESTful APIs  
+- Stored data locally using SQLite for offline access  
+- Role-based UI for personalized experiences 
 
 ### 2. [Restaurant Booking App](https://github.com/Sailaxmiveldanda/IOSProject_Team02.git)  
-iOS app integrating HealthKit and Core Motion for table booking and health insights.  
-**Tech**: Swift, Firebase, HealthKit, Core Motion  
+**iOS | Swift | Firebase | HealthKit | Core Motion**  
+iOS app enabling users to find and reserve restaurant tables while promoting healthier eating.  
+- **Core Motion**: Gesture-based table selection via device tilting  
+- **HealthKit**: View nutrition and allergy info from restaurant menus  
+- Smooth media support using **Lottie** and **SDWebImage**  
 
 ### 3. [Social Distance Detection Using Machine Learning](https://github.com/Sailaxmiveldanda/Social_Distance_Project.git)  
-YOLOv3-powered system for monitoring social distancing in public spaces.  
-**Tech**: Python, OpenCV, YOLOv3, NumPy  
+**Computer Vision | Python | YOLOv3 | OpenCV | NumPy**  
+Built a real-time surveillance system to detect social distancing violations.  
+- Used **YOLOv3** for object detection (92% accuracy)  
+- Visual alerts via red bounding boxes for high-risk proximity  
+- Logged data for analytics and policy monitoring  
 
 ### 4. Real-Time Location Tracking for Safety  
-Arduino-based GSM system to track user locations and trigger alerts.  
-**Tech**: Arduino Uno, GSM, GPS, Touch Sensor
+**GSM | GPS | Arduino Uno | Touch Sensor**  
+Built an embedded system to track and report real-time location for distress situations.  
+- Touch sensor triggers emergency alert  
+- GPS data sent via GSM to emergency contacts  
+- Privacy-aware design for sensitive data protection 
 
 ---
 
