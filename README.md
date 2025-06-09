@@ -4,13 +4,15 @@ Software Engineer specializing in cloud computing, big data technologies, and fu
 
 ## 🚀 About Me  
 - 🎓 Master’s in Computer Science from Northwest Missouri State University, graduated in 2024.  
-- 💻 Former Software Engineer at Accenture with expertise in Python, Java, and cloud technologies.  
-- 🌟 Passionate about designing scalable software solutions and optimizing workflows with Big Data tools.  
-- 👀 Actively seeking full-time opportunities to contribute and grow in software development.
+- 💻 Experience as a Software Engineer at Revive Software Systems and Accenture, working on cloud-native and data-intensive solutions.  
+- 🌟 Experienced in designing scalable cloud and data-driven applications using Java, Python, and AWS.  
+- 👀 Open to full-time roles in backend, cloud, or data engineering domains.
+
+---
 
 ## 🛠️ Technical Stack  
 
-### Programming Languages
+### Programming Languages  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
@@ -20,77 +22,104 @@ Software Engineer specializing in cloud computing, big data technologies, and fu
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
 
-
 ### Web Development  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
 
 ### Cloud & Big Data  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23023138.svg?style=flat&logo=apache-kafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23023138.svg?style=flat&logo=apache-kafka&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+![Snowflake](https://img.shields.io/badge/Snowflake-%2300B5E2.svg?style=flat&logo=snowflake&logoColor=white) 
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=flat&logo=apache-airflow&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure%20Data%20Factory-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
 
 ### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 
 ### CI/CD Tools  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
 
 ### Frameworks  
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 
 ### Machine Learning & Deep Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=black)
 
 ### Natural Language Processing (NLP)  
 - Tokenization, Stemming  
 
 ### Data Visualization  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=python&logoColor=blue) ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=python&logoColor=blue) 
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### **Software Developer**  
+**Revive Software Systems Inc, Plano, TX**  
+_Aug 2024 – Present_  
+- Developed scalable Java services using Spring Boot, integrated with AWS Lambda, RDS, and DynamoDB.  
+- Built ETL pipelines using Azure Data Factory, Databricks, and Snowflake.  
+- Automated job orchestration using Airflow and shell scripting.  
+- Collaborated across teams to ensure timely delivery in Agile environment.
+
+### **Associate Software Engineer**  
+**Accenture, Hyderabad, India**  
+_Sept 2021 – Dec 2022_  
+- Created internal tools using Python and Java to automate workflows.  
+- Enhanced application performance through tuning and debugging.  
+- Contributed to sprint planning, retrospectives, and cross-team initiatives.
+
+### **Telecom Network Engineer Intern**  
+**BSNL Ltd, Hyderabad, India**  
+_July 2019 – Aug 2019_  
+- Maintained BSNL’s core telecom infrastructure and improved system uptime.
 
 ---
 
 ## 📂 Project Portfolio  
 
-### 1. **[University Class Performance App](https://github.com/Sailaxmiveldanda/classtrackr.git)**  
-- **Description**: An Android app providing real-time class performance and schedule data for students and faculty.  
-- **Features**:  
-  - Integrated RESTful APIs for real-time data fetching.  
-  - Firebase authentication for secure user login.  
-  - SQLite for offline data storage.  
-- **Technologies**: Android Studio, Java, Firebase, RESTful APIs  
+### 1. [University Class Performance App](https://github.com/Sailaxmiveldanda/classtrackr.git)  
+Android app providing real-time class performance and schedule tracking.  
+**Tech**: Java, Firebase, SQLite, REST APIs  
 
-### 2. **[Restaurant Booking App](https://github.com/Sailaxmiveldanda/IOSProject_Team02.git)**  
-- **Description**: iOS app for booking restaurant tables, enhancing user experience.  
-- **Features**:  
-  - Integrated HealthKit for nutritional details.  
-  - Gesture-based interactions with Core Motion.  
-  - Firebase authentication for secure access.  
-  - Data warehousing for personalized recommendations.  
-- **Technologies**: Core Motion, HealthKit, Firebase, Lottie, SDWebImage, AnimatedGradientView  
+### 2. [Restaurant Booking App](https://github.com/Sailaxmiveldanda/IOSProject_Team02.git)  
+iOS app integrating HealthKit and Core Motion for table booking and health insights.  
+**Tech**: Swift, Firebase, HealthKit, Core Motion  
 
-### 3. **[Social Distance Detection Using Machine Learning](https://github.com/Sailaxmiveldanda/Social_Distance_Project.git)**  
-- **Description**: SocialdistancingNet-19, a system for monitoring adherence to social distancing protocols with video surveillance.  
-- **Features**:  
-  - YOLOv3 for object detection with 92.8% accuracy.  
-  - Scalable data warehouse for efficient storage.  
-  - Business intelligence tools for trend analysis.  
-- **Technologies**: YOLOv3, Python, Anaconda, OpenCV, NumPy  
+### 3. [Social Distance Detection Using Machine Learning](https://github.com/Sailaxmiveldanda/Social_Distance_Project.git)  
+YOLOv3-powered system for monitoring social distancing in public spaces.  
+**Tech**: Python, OpenCV, YOLOv3, NumPy  
 
-### 4. **Real-Time Location Tracking for Safety**  
-- **Description**: System using GSM technology and Arduino Uno to track real-time locations for safety.  
-- **Features**:  
-  - Touch sensor integration for rapid response to threats.  
-  - Secure storage of GPS data for privacy compliance.  
-  - Data analysis tools for incident pattern recognition.  
-- **Technologies**: GSM, GPS, Arduino Uno, Touch Sensor  
+### 4. Real-Time Location Tracking for Safety  
+Arduino-based GSM system to track user locations and trigger alerts.  
+**Tech**: Arduino Uno, GSM, GPS, Touch Sensor
 
 ---
 
-## 📫 How to reach me  
-- LinkedIn: [Sailaxmi Veldanda](https://www.linkedin.com/in/slaxmiv/)  
-- Email: veldandasailaxmi@gmail.com  
+## 📜 Certifications  
+- **Java Programming Masterclass** – Udemy (May 2020)  
+- **Complete Python Programming Bootcamp** – Udemy (July 2020)  
+- **HackerRank Certifications**:  
+  - Java (Basic), JavaScript (Basic), CSS (Basic)  
+  - SQL (Basic & Intermediate), Problem Solving (Basic) – (Dec 2024 – Feb 2025)
+
+---
+
+## 📫 How to Reach Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/slaxmiv/)  
+- 📧 veldandasailaxmi@gmail.com  
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sailaxmiveldanda)
 
-
-Feel free to explore my projects and connect for collaboration or opportunities!
