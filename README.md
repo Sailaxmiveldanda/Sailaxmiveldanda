@@ -3,10 +3,12 @@
 Software Engineer specializing in cloud computing, big data technologies, and full-stack development with a focus on scalable and efficient solutions.
 
 ## 🚀 About Me  
-- 🎓 Master’s in Computer Science from Northwest Missouri State University, graduated in 2024.  
-- 💻 Experience as a Software Engineer at Revive Software Systems and Accenture, working on cloud-native and data-intensive solutions.  
-- 🌟 Experienced in designing scalable cloud and data-driven applications using Java, Python, and AWS.  
-- 👀 Open to full-time roles in backend, cloud, or data engineering domains.
+🎓 Master’s in Computer Science from Northwest Missouri State University, graduated in 2024.  
+💻 Experience as a Software Engineer at Revive Software Systems and Accenture, working on cloud-native and data-intensive solutions.  
+☁️ Google Cloud Certified – Associate Cloud Engineer and Professional Cloud DevOps Engineer (2025).  
+🌟 Skilled in designing scalable cloud and data-driven applications using Java, Python, GCP, and AWS.  
+👀 Open to full-time roles in backend, cloud, or data engineering domains.
+
 
 ---
 
