@@ -139,12 +139,20 @@ Built an embedded system to track and report real-time location for distress sit
 
 ---
 
-## 📜 Certifications  
-- **Java Programming Masterclass** – Udemy (May 2020)  
-- **Complete Python Programming Bootcamp** – Udemy (July 2020)  
-- **HackerRank Certifications**:  
-  - Java (Basic), JavaScript (Basic), CSS (Basic)  
-  - SQL (Basic & Intermediate), Problem Solving (Basic) – (Dec 2024 – Feb 2025)
+## 📜 Certifications
+
+- **Google Cloud**
+  - Associate Cloud Engineer – *June 2025*
+  - Professional Cloud DevOps Engineer – *June 2025*
+  
+- **Udemy**
+  - Java Programming Masterclass – *May 2020*
+  - Complete Python Programming Bootcamp – *July 2020*
+
+- **HackerRank Certifications**
+  - Java (Basic), JavaScript (Basic), CSS (Basic)
+  - SQL (Basic & Intermediate), Problem Solving (Basic) – *(Dec 2024 – Feb 2025)*
+
 
 ---
 
