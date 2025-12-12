@@ -68,7 +68,7 @@ Software Engineer specializing in cloud computing, big data technologies, and fu
 
 ### **Software Developer**  
 **Revive Software Systems Inc | Plano, TX**  
-_Aug 2024 – Present_  
+_Aug 2023 – Present_  
 - Built scalable Java services using Spring Boot, integrated with AWS Lambda, RDS, and DynamoDB.  
 - Developed ETL pipelines using Azure Data Factory, Databricks, and Snowflake.  
 - Automated job orchestration with Airflow and shell scripting.
