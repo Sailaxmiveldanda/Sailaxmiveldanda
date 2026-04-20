@@ -8,10 +8,10 @@ Worked across cloud-native deployments and data workflows on AWS and GCP (GKE/Ku
 ## 🚀 About Me  
 🎓 Master’s in Computer Science from Northwest Missouri State University (2024).  
 💻 ~3 years of experience as a Software Engineer at Revive Software Systems and Accenture, shipping production features end-to-end.  
-☁️ Google Cloud Certified – Associate Cloud Engineer & Professional Cloud DevOps Engineer (2025).
-🌟 Skilled in building scalable backend and data-driven systems using **Java/Spring Boot**, **Python**, **Go/C++**, and **cloud deployments on AWS + GCP/GKE**. 
+☁️ Google Cloud Certified – Associate Cloud Engineer & Professional Cloud DevOps Engineer (2025).                                          
+🌟 Skilled in building scalable backend and data-driven systems using **Java/Spring Boot**, **Python**, **Go/C++**, and **cloud deployments on AWS + GCP/GKE**.                                                                                                                          
 📈 Improved **API performance (~25%)**, reduced **manual release effort (~30%)**, and helped cut **deployments from ~1 day to <2 hours** through CI/CD automation and streamlined release workflows.  
-👀 Open to full-time roles in **Backend Engineering**, **Cloud Engineering**, or **Data Engineering**.  
+👀 Open to full-time roles in **Backend Engineering**, **Cloud Engineering** Roles.  
 
 ---
 
