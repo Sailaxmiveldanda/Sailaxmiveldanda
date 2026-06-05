@@ -1,8 +1,6 @@
 # Sailaxmi Veldanda
 
-Backend Software Engineer with ~3 years of experience building production REST APIs and microservices in Java/Spring Boot and Go/C++. 
-Worked across cloud-native deployments and data workflows on AWS and GCP (GKE/Kubernetes), with strong ownership in CI/CD and production debugging.
-
+Software Engineer with 3+ years of experience building scalable full-stack and backend systems across SaaS, insurance, and banking domains. Proficient in Java, Spring Boot, React, TypeScript, and Node.js, with hands-on expertise deploying microservices on AWS and GCP using Docker, Kubernetes, and CI/CD pipelines. Holds dual Google Cloud certifications (Professional Cloud DevOps Engineer & Associate Cloud Engineer) and an MS in Computer Science. Adept at translating complex business requirements into reliable, production-grade systems.
 
 ---
 ## 🚀 About Me  
@@ -85,18 +83,26 @@ Worked across cloud-native deployments and data workflows on AWS and GCP (GKE/Ku
 
 ## Experience
 
-### Software Developer — Revive Software Systems Inc (Aug 2024 – Present) | Seattle, WA
-- Built and maintained backend APIs (Spring Boot / Go / C++) used by customer-facing products; optimized key endpoints to reduce dashboard load time by **~25%**.
-- Containerized and migrated selected legacy components toward **Go services deployed on GKE (Kubernetes)**.
-- Built **AWS Glue + S3** ETL pipelines and wrote Python utilities on **EMR** to catch data quality issues earlier, reducing production errors by **~15%**.
-- Improved and automated **CI/CD** (Jenkins / Cloud Build / CodePipeline), reducing manual release effort by **~30%** and cutting deployments from **~1 day to <2 hours**.
-- Debugged production issues (crashes, memory leaks, latency regressions) via logs, repro, and staged validation to improve service stability.
+### Software Engineer, Centific (Client – Microsoft) - June 2026 – Present | Redmond, WA
+- Develop and enhance C++ applications and Windows-based software solutions, contributing to feature implementation, code quality, and system reliability.
+- Design and implement automation frameworks and tooling to streamline workload execution, data collection, and engineering workflows, improving operational efficiency.
+- Collaborate with cross-functional engineering teams to build and optimize scalable software components, leveraging Git, code reviews, and Agile development practices.
+- Perform performance optimization, root-cause analysis, and troubleshooting of Windows applications, improving system stability and overall user experience.
+- Develop reusable utilities and internal tools for Windows Development, enabling efficient testing, validation, and deployment of software enhancements.
+
+### Software Developer — Revive Software Systems Inc (Aug 2024 – May 2026) | Seattle, WA
+- Led end-to-end architecture of an AI-powered full-stack SaaS platform automating LinkedIn content creation, scheduling, and publishing, delivering from design to pre-launch validation in 4 months.
+- Built an AI-driven content generation pipeline integrating LLM APIs to transform user topics into optimized LinkedIn posts with automated hashtag and variation generation, reducing manual content creation time by 55%.
+- Engineered RESTful APIs in Java and Spring Boot across 4+ core modules — authentication, post management, scheduling, and analytics — built to support 1,000+ daily active users.
+- Designed an asynchronous job scheduling system for automated post publishing at scale, achieving a 99.9% publishing success rate with minimal manual intervention.
+- Collaborated across development and QA phases on code reviews, bug triage, and CI/CD pipeline improvements, reducing deployment execution time by 30%. 
 
 ### Associate Software Engineer — Accenture (Sep 2021 – Dec 2022) | Hyderabad, India
-- Built and enhanced **Spring Boot + Hibernate** REST APIs integrating **ServiceNow** modules for banking/insurance workflows.
-- Delivered **React** UI features for an internal support dashboard to consolidate incident views and speed up triage.
-- Automated data retrieval/validation, saving **~10 hours/week** and improving turnaround time.
-- Supported releases on WebLogic/Tomcat using Maven; diagnosed build/dependency issues and improved deployment stability in Agile teams.
+- Designed a centralized issue tracking system integrating Java, Spring Boot, and ServiceNow APIs, improving incident resolution efficiency by 35% across 5+ enterprise teams.
+- Built and optimized RESTful APIs for insurance, banking, and retirement domains with Hibernate, reducing API response latency by 20% through query optimization.
+- Deployed and maintained production-grade enterprise applications on WebLogic, achieving 99.9% uptime across 3 high-traffic domains.
+- Managed release cycles and version control using GitHub, facilitating 20+ successful production deployments.
+- Resolved 50+ critical production defects, reducing service disruptions by 25% and maintaining 99.9% uptime across 3 enterprise domains.
 
 ### Network Engineer Intern — BSNL Ltd (Jul 2019 – Aug 2019) | Hyderabad, India
 - Assisted with router/switch configuration and troubleshooting to maintain stable telecom connectivity.
